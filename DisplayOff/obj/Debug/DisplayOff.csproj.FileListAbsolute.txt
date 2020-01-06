@@ -1,0 +1,5 @@
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\bin\Debug\DisplayOff.exe
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\bin\Debug\DisplayOff.pdb
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\obj\Debug\DisplayOff.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\obj\Debug\DisplayOff.exe
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\obj\Debug\DisplayOff.pdb

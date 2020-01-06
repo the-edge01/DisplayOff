@@ -1,0 +1,4 @@
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\bin\Release\DisplayOff.exe
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\bin\Release\DisplayOff.pdb
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\obj\Release\DisplayOff.exe
+C:\Users\Eric\source\repos\DisplayOff\DisplayOff\obj\Release\DisplayOff.pdb
